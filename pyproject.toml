@@ -1,0 +1,9 @@
+[project]
+name = "setup-status-badge"
+version = "0.1.0"
+description = "Small Python utility for setup-review notes"
+requires-python = ">=3.11"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
